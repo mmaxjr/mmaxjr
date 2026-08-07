@@ -69,11 +69,13 @@ I also contribute fixes and documentation improvements to Python and infrastruct
 
 | Project | Contribution Area |
 | --- | --- |
-| pandas | CSV parser regression fixes and documentation improvements |
-| Textual | Documentation fixes and Windows input handling |
-| Scrapy | Asyncio documentation around component initialization |
+| Ansible | Documentation improvements for module behavior and infrastructure automation |
+| pandas | CSV parser regression fixes, docs improvements, and parser behavior tests |
+| Textual | Documentation fixes and Windows input handling improvements |
+| Scrapy | Asyncio documentation around component initialization and reactor behavior |
 | humanize | Python utility improvements |
 | AVE / Agent tooling | Agentic vulnerability enumeration and developer tooling |
+| Machine vision resources | Curated practical references for computer vision, edge AI, and fire/smoke detection |
 
 ---
 
