@@ -77,6 +77,40 @@ I also contribute fixes and documentation improvements to Python and infrastruct
 
 ---
 
+### Community Impact & Activity
+
+_Showing that I like to build, collaborate, and merge._
+
+<p align="center">
+  <img
+    alt="Marcos Max GitHub contribution graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mmaxjr&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="165"
+    alt="Marcos Max GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=mmaxjr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false"
+  />
+  <img
+    height="165"
+    alt="Marcos Max GitHub streak"
+    src="https://streak-stats.demolab.com?user=mmaxjr&theme=github-dark-blue&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="165"
+    alt="Most used languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaxjr&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  />
+</p>
+
+---
+
 ### Work In Progress
 
 | Project | Focus | Help Wanted |
