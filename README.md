@@ -33,7 +33,7 @@ I build practical systems around computer vision, network automation, observabil
 
 | Project | Description | Link |
 | --- | --- | --- |
-| SAMA - Smoke and Fire Detection | Production-oriented machine vision system for smoke and fire detection in farms in Brazil. | [sama-fire-detection](https://github.com/mmaxjr/sama-fire-detection) |
+| SAMA - Smoke and Fire Detection | Private production-oriented machine vision system for smoke and fire detection in farms in Brazil. | Private project |
 | Awesome Machine Vision | Curated resources for computer vision, edge AI, object detection, machine vision, fire/smoke monitoring, and practical tooling. | [awesome-machine-vision](https://github.com/mmaxjr/awesome-machine-vision) |
 | Portfolio / Wiki Max TI | Personal technical portfolio and knowledge base for infrastructure, automation, DevOps, and monitoring. | [mmaxjr.github.io](https://mmaxjr.github.io) |
 | Server Fleet Monitor | Terminal dashboard to monitor Debian server fleets over SSH. | [server-fleet-monitor](https://github.com/mmaxjr/server-fleet-monitor) |
@@ -59,7 +59,7 @@ What I am working on:
 - Edge-friendly inference and practical deployment.
 - Documentation for field usage and future contributors.
 
-Repository: [mmaxjr/sama-fire-detection](https://github.com/mmaxjr/sama-fire-detection)
+Status: private production project.
 
 ---
 
