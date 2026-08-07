@@ -35,7 +35,7 @@ I build practical systems around computer vision, network automation, observabil
 | --- | --- | --- |
 | SAMA - Smoke and Fire Detection | Production-oriented machine vision system for smoke and fire detection in farms in Brazil. | [sama-fire-detection](https://github.com/mmaxjr/sama-fire-detection) |
 | Awesome Machine Vision | Curated resources for computer vision, edge AI, object detection, machine vision, fire/smoke monitoring, and practical tooling. | [awesome-machine-vision](https://github.com/mmaxjr/awesome-machine-vision) |
-| Portfolio / Wiki Max TI | Personal technical portfolio and knowledge base for infrastructure, automation, DevOps, and monitoring. | [mmaxjr.github.io](https://github.com/mmaxjr/mmaxjr.github.io) |
+| Portfolio / Wiki Max TI | Personal technical portfolio and knowledge base for infrastructure, automation, DevOps, and monitoring. | [mmaxjr.github.io](https://mmaxjr.github.io) |
 | Server Fleet Monitor | Terminal dashboard to monitor Debian server fleets over SSH. | [server-fleet-monitor](https://github.com/mmaxjr/server-fleet-monitor) |
 | NetFlow IA Collector | NetFlow v5 collector with AI anomaly analysis and Telegram alerts. | [netflow-ia-colletor](https://github.com/mmaxjr/netflow-ia-colletor) |
 | Zabbix Report Generator | Executive HTML/PDF reports generated from the Zabbix API. | [zabbix-report-generator](https://github.com/mmaxjr/zabbix-report-generator) |
@@ -90,7 +90,7 @@ I also contribute fixes and documentation improvements to Python and infrastruct
 
 ### Connect
 
-- Portfolio: [mmaxjr.github.io](https://github.com/mmaxjr/mmaxjr.github.io)
+- Portfolio: [mmaxjr.github.io](https://mmaxjr.github.io)
 - LinkedIn: [linkedin.com/in/mmaxjr](https://linkedin.com/in/mmaxjr)
 - GitHub Sponsors: [github.com/sponsors/mmaxjr](https://github.com/sponsors/mmaxjr)
 
