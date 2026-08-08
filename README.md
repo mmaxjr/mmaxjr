@@ -67,6 +67,13 @@ Status: private production project.
 
 I also contribute fixes and documentation improvements to Python and infrastructure-related projects.
 
+Current focus, updated 2026-08-08:
+
+- pandas: parser behavior, regression tests, and CI follow-up.
+- Textual: documentation polish and Windows input handling.
+- Ansible: infrastructure automation documentation.
+- humanize: numeric formatting edge cases.
+
 | Project | Contribution Area |
 | --- | --- |
 | Ansible | Documentation improvements for module behavior and infrastructure automation |
