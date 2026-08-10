@@ -34,6 +34,7 @@ I build practical systems around computer vision, network automation, observabil
 | Project | Description | Link |
 | --- | --- | --- |
 | SAMA - Smoke and Fire Detection | Private production-oriented machine vision system for smoke and fire detection in farms in Brazil. | Private project |
+| MAXCONN | Python library for network and infrastructure automation, starting with raw-socket SSH and Telnet clients. Published on PyPI. | [maxconn](https://github.com/mmaxjr/maxconn) / [PyPI](https://pypi.org/project/maxconn/) |
 | Awesome Machine Vision | Curated resources for computer vision, edge AI, object detection, machine vision, fire/smoke monitoring, and practical tooling. | [awesome-machine-vision](https://github.com/mmaxjr/awesome-machine-vision) |
 | Portfolio / Wiki Max TI | Personal technical portfolio and knowledge base for infrastructure, automation, DevOps, and monitoring. | [mmaxjr.github.io](https://mmaxjr.github.io) |
 | Server Fleet Monitor | Terminal dashboard to monitor Debian server fleets over SSH. | [server-fleet-monitor](https://github.com/mmaxjr/server-fleet-monitor) |
@@ -125,6 +126,7 @@ _Showing that I like to build, collaborate, and merge._
 | Project | Focus | Help Wanted |
 | --- | --- | --- |
 | SAMA | Machine vision for smoke/fire detection | Dataset, model evaluation, deployment feedback |
+| MAXCONN | Python toolkit for network and infrastructure automation | Protocol testing, device CLI workflows, vendor modules |
 | Awesome Machine Vision | Practical computer vision resources | Tools, papers, datasets, edge AI links |
 | Network Automation Toolkit | Scripts and tools for real infrastructure operations | Testing on more vendors and topologies |
 | Observability + AI | Zabbix, NetFlow, logs, anomaly detection | Ideas, integrations, dashboards |
