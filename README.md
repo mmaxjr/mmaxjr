@@ -33,7 +33,7 @@ I build practical systems around computer vision, network automation, observabil
 
 | Project | Description | Link |
 | --- | --- | --- |
-| SAMA - Smoke and Fire Detection | Private production-oriented machine vision system for smoke and fire detection in farms in Brazil. | Private project |
+| SAMA - Smoke and Fire Detection | Private production-oriented machine vision system for smoke and fire detection in farms in Brazil. | [CEOS-SAMA](https://ceosecotec.com.br/) |
 | MAXCONN | Python library for network and infrastructure automation, starting with raw-socket SSH and Telnet clients. Published on PyPI. | [maxconn](https://github.com/mmaxjr/maxconn) / [PyPI](https://pypi.org/project/maxconn/) |
 | Awesome Machine Vision | Curated resources for computer vision, edge AI, object detection, machine vision, fire/smoke monitoring, and practical tooling. | [awesome-machine-vision](https://github.com/mmaxjr/awesome-machine-vision) |
 | Portfolio / Wiki Max TI | Personal technical portfolio and knowledge base for infrastructure, automation, DevOps, and monitoring. | [mmaxjr.github.io](https://mmaxjr.github.io) |
