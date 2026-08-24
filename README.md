@@ -47,7 +47,7 @@ I build practical systems around computer vision, network automation, observabil
 
 ---
 
-### Project Spotlight: SAMA
+### Project Spotlight: SAMA - https://ceosecotec.com.br/
 
 **SAMA** is a machine vision project focused on early detection of smoke and fire in rural environments.
 
