@@ -1,9 +1,8 @@
 # Marcos Max
 
 Developer and infrastructure specialist from Parana, Brazil.
-
 I build practical systems around computer vision, network automation, observability, cybersecurity, and DevOps. My current production focus is **SAMA**, a machine vision system for smoke and fire detection in Brazilian farms.
-
+https://ceosecotec.com.br/
 ---
 
 ### About Me
