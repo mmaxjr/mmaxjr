@@ -1,6 +1,7 @@
 # Marcos Max
 
 Developer and infrastructure specialist from Parana, Brazil.
+**Open to remote work** in networks, infrastructure, automation and DevOps (Brazil and LATAM).
 I build practical systems around computer vision, network automation, observability, cybersecurity, and DevOps. My current production focus is **SAMA**, a machine vision system for smoke and fire detection in Brazilian farms.
 https://ceosecotec.com.br/
 ---
@@ -43,6 +44,11 @@ https://ceosecotec.com.br/
 | Network AI Provisioner | Experiments in AI-assisted network provisioning and infrastructure automation. | [network-ai-provisioner-V2](https://github.com/mmaxjr/network-ai-provisioner-V2) |
 | Config Audit for Networks | Tools for auditing network configurations with AI-assisted analysis. | [network-config-ai-audit](https://github.com/mmaxjr/network-config-ai-audit) |
 | Firewall Log AI Parser | Parser and analysis tooling for firewall logs. | [firewall-log-ai-parser](https://github.com/mmaxjr/firewall-log-ai-parser) |
+| DevOps Platform Lab | Kubernetes (kind), GitOps with Argo CD, Kustomize, GitHub Actions and a FastAPI app with Redis and PostgreSQL. | [devops-platform](https://github.com/mmaxjr/devops-platform) |
+| Orphan Hunter (AWS) | Read-only boto3 scanner that ranks likely orphaned AWS resources by monthly cost. | [orphan-hunterAWS](https://github.com/mmaxjr/orphan-hunterAWS) |
+| pfSense Watchdog Telegram | Telegram alerts for pfSense gateway outages and public IP changes. | [pfsense-watchdog-telegram](https://github.com/mmaxjr/pfsense-watchdog-telegram) |
+| MaxPentest | Pentest support guided by OWASP WSTG, Top 10 and PTES, with CVSS 3.1 findings and DOCX reports. | [maxpentest](https://github.com/mmaxjr/maxpentest) |
+| Vaga Radar | Python job aggregator with 20+ sources, tests and CI. | [vaga-radar](https://github.com/mmaxjr/vaga-radar) |
 
 ---
 
@@ -65,24 +71,23 @@ Status: private production project.
 
 ### Open Source Contributions
 
-I also contribute fixes and documentation improvements to Python and infrastructure-related projects.
+Bug fixes, tests and documentation for Python, infrastructure and tooling projects. The status below is the one shown on GitHub.
 
-Current focus, updated 2026-08-08:
+**Merged**
 
-- pandas: parser behavior, regression tests, and CI follow-up.
-- Textual: documentation polish and Windows input handling.
-- Ansible: infrastructure automation documentation.
-- humanize: numeric formatting edge cases.
-
-| Project | Contribution Area |
+| Project | Pull request |
 | --- | --- |
-| Ansible | Documentation improvements for module behavior and infrastructure automation |
-| pandas | CSV parser regression fixes, docs improvements, and parser behavior tests |
-| Textual | Documentation fixes and Windows input handling improvements |
-| Scrapy | Asyncio documentation around component initialization and reactor behavior |
-| humanize | Python utility improvements |
-| AVE / Agent tooling | Agentic vulnerability enumeration and developer tooling |
-| Machine vision resources | Curated practical references for computer vision, edge AI, and fire/smoke detection |
+| Nornir (network automation) | [#1075](https://github.com/nornir-automation/nornir/pull/1075) |
+| ytmusicapi | [#1007](https://github.com/sigma67/ytmusicapi/pull/1007) |
+| basic-memory | [#1460](https://github.com/basicmachines-co/basic-memory/pull/1460) |
+| Reef | [#150](https://github.com/Human-Agent-Society/reef/pull/150), [#151](https://github.com/Human-Agent-Society/reef/pull/151) |
+| Sarracenia | [#1769](https://github.com/MetPX/sarracenia/pull/1769) |
+| ph-eye | [#12](https://github.com/philterd/ph-eye/pull/12) |
+| ai-shipcheck | [#21](https://github.com/sinceaihq/ai-shipcheck/pull/21) |
+
+**Open, under review**
+
+[pandas #69466](https://github.com/pandas-dev/pandas/pull/69466), [Ansible #87371](https://github.com/ansible/ansible/pull/87371), [Textual #6689](https://github.com/Textualize/textual/pull/6689), [Nornir #1104](https://github.com/nornir-automation/nornir/pull/1104) and [#1105](https://github.com/nornir-automation/nornir/pull/1105), [React #37702](https://github.com/react/react/pull/37702), [Dask distributed #9356](https://github.com/dask/distributed/pull/9356), [mypy #21800](https://github.com/python/mypy/pull/21800), [Django CRM #534](https://github.com/DjangoCRM/django-crm/pull/534), [Nuxt #36210](https://github.com/nuxt/nuxt/pull/36210) and [ofetch #626](https://github.com/unjs/ofetch/pull/626).
 
 ---
 
