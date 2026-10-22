@@ -84,6 +84,8 @@ Bug fixes, tests and documentation for Python, infrastructure and tooling projec
 | Sarracenia | [#1769](https://github.com/MetPX/sarracenia/pull/1769) |
 | ph-eye | [#12](https://github.com/philterd/ph-eye/pull/12) |
 | ai-shipcheck | [#21](https://github.com/sinceaihq/ai-shipcheck/pull/21) |
+| Ruff | [#29382](https://github.com/astral-sh/ruff/pull/29382) |
+| Django CRM | [#534](https://github.com/DjangoCRM/django-crm/pull/534) |
 
 **Open, under review**
 
