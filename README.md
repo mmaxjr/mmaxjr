@@ -84,12 +84,13 @@ Bug fixes, tests and documentation for Python, infrastructure and tooling projec
 | Sarracenia | [#1769](https://github.com/MetPX/sarracenia/pull/1769) |
 | ph-eye | [#12](https://github.com/philterd/ph-eye/pull/12) |
 | ai-shipcheck | [#21](https://github.com/sinceaihq/ai-shipcheck/pull/21) |
+| Nornir | [#1104](https://github.com/nornir-automation/nornir/pull/1104) |
 | Ruff | [#29382](https://github.com/astral-sh/ruff/pull/29382) |
 | Django CRM | [#534](https://github.com/DjangoCRM/django-crm/pull/534) |
 
 **Open, under review**
 
-[pandas #69466](https://github.com/pandas-dev/pandas/pull/69466), [Ansible #87371](https://github.com/ansible/ansible/pull/87371), [Textual #6689](https://github.com/Textualize/textual/pull/6689), [Nornir #1104](https://github.com/nornir-automation/nornir/pull/1104) and [#1105](https://github.com/nornir-automation/nornir/pull/1105), [React #37702](https://github.com/react/react/pull/37702), [Dask distributed #9356](https://github.com/dask/distributed/pull/9356), [mypy #21800](https://github.com/python/mypy/pull/21800), [Django CRM #534](https://github.com/DjangoCRM/django-crm/pull/534), [Nuxt #36210](https://github.com/nuxt/nuxt/pull/36210) and [ofetch #626](https://github.com/unjs/ofetch/pull/626).
+[pandas #69466](https://github.com/pandas-dev/pandas/pull/69466), [Ansible #87371](https://github.com/ansible/ansible/pull/87371), [Textual #6689](https://github.com/Textualize/textual/pull/6689), [Nornir #1105](https://github.com/nornir-automation/nornir/pull/1105), [React #37702](https://github.com/react/react/pull/37702), [Dask distributed #9356](https://github.com/dask/distributed/pull/9356), [mypy #21800](https://github.com/python/mypy/pull/21800), [Django CRM #534](https://github.com/DjangoCRM/django-crm/pull/534), [Nuxt #36210](https://github.com/nuxt/nuxt/pull/36210) and [ofetch #626](https://github.com/unjs/ofetch/pull/626).
 
 ---
 
